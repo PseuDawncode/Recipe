@@ -262,4 +262,15 @@
         }
 
         /*About Us design*/
-        
+        .aboutus__img--container {
+            width: 40%;
+            display: flex;
+            justify-content: center;
+        }
+
+        #aboutus__img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+        }
